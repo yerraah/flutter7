@@ -1,0 +1,20 @@
+{
+    "hello": "Салем",
+    "User Info": "Информация пользователя",
+    "Ukraine": "Украина",
+    "Register Form": "Форма Регистраций",
+    "Full Name *": "Полное имя ",
+    "What do people call you?": "Как вас зовут?",
+    "Phone Number *": "Номер",
+    "Where can we reach you?": "Как можем связаться с тобой?",
+    "Phone format: (XXX)XXX-XXXX": "Формат номера: (ХХХ)ХХХ-ХХХХ",
+    "Enter a email address": "Напиши почту",
+    "Email Address": "Почта:",
+    "Life Story": "История",
+    "Tell us about your self": "Расскажи о жизни",
+    "Keep it short, this is just a demo": "Напиши коротко",
+    "Password *": "Пароль",
+    "Enter the password": "Пароль еще раз",
+    "Confirm Password *": "Подтверди пароль",
+    "Confirm the password": "Подтверди еще раз"
+  }
